@@ -1,0 +1,25 @@
+.weathorIcon{
+     height: 100px;
+     width: 100px;
+}
+
+.color-red{
+     color: red;
+     font-weight: 600;
+}
+
+.ft-sz-20 {
+     font-size: 20px;
+}
+
+.mb-1{
+     margin-bottom: 10px;
+}
+
+.center {
+     text-align: center;
+}
+
+.recharts-bar-rectangle:hover {
+     fill: none !important;
+   }
